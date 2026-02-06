@@ -1,1 +1,0 @@
-Always use a modular structure. For UI, use Streamlit. For AI, use LangChain with Claude 3.5 Sonnet. Prioritize 'Zero Bureaucracy' logic: if a user asks for a permit, the agent must check the 'Abu_Dhabi_Policy_2030.pdf' and provide a structured checklist.
