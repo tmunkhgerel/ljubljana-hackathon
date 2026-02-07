@@ -1,8 +1,4 @@
-streamlit
-langchain
-langchain-community
-langchain-openai
-pypdf
-chromadb
-python-dotenv
-firecrawl-py
+requests
+pandas
+flask
+langchain.chains
